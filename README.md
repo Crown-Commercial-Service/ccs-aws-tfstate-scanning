@@ -25,7 +25,7 @@ The sensitive attributes identified by this script are:
 
 # Requirements and Installation
 
-To run this script you'll need to have valid [python3]https://www.python.org/downloads/, [pip]https://python.land/virtual-environments/installing-packages-with-pip and [boto3]https://pypi.org/project/boto3/ installations. 
+To run this script you'll need to have valid [python3](https://www.python.org/downloads/), [pip](https://python.land/virtual-environments/installing-packages-with-pip) and [boto3](https://pypi.org/project/boto3/) installations. 
 
 Next, simply clone the repository and execute the python script through a terminal session.
 
