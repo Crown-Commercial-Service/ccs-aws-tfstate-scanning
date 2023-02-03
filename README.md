@@ -8,20 +8,20 @@ This simple python script scrapes json-formatted S3 objects to identify any sens
 
 The sensitive attributes identified by this script are:
 
-*'access_token'
-*'ACCESS_TOKEN'
-*'Access_token'
-*'Access_Token'
-*'client_secret'
-*'CLIENT_SECRET'
-*'Client_secret'
-*'Client_Secret'
-*'password'
-*'PASSWORD'
-*'Password'
-*'secret'
-*'SECRET'
-*'Secret'
+-'access_token'
+-'ACCESS_TOKEN'
+-'Access_token'
+-'Access_Token'
+-'client_secret'
+-'CLIENT_SECRET'
+-'Client_secret'
+-'Client_Secret'
+-'password'
+-'PASSWORD'
+-'Password'
+-'secret'
+-'SECRET'
+-'Secret'
 
 # Requirements and Installation
 
