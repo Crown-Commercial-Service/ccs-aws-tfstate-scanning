@@ -61,3 +61,7 @@ Both scan types (see above) produce a live feed of scanning within the terminal 
 | ------------- | ------------- | ------------- | ------------- |
 | ACCOUNT1  | BUCKET1 | OBJECT1 | client_secret |
 | ACCOUNT2  | BUCKET2 | OBJECT2 | password |
+
+## License
+
+aws-tfstate-scanner is licensed as Apache License 2.0. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
