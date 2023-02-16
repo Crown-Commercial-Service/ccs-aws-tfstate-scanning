@@ -26,8 +26,10 @@ writer.writerow(headers)
 # define sensitive search strings
 sensitive_strings = ['access_token','ACCESS_TOKEN','Access_token','Access_Token',\
     'client_secret','CLIENT_SECRET','Client_secret','Client_Secret',\
-        'password','PASSWORD','Password',\
-        'secret','SECRET','Secret']
+        'master_password','MASTER_PASSWORD','Master_password','Master_Password',\
+            'password','PASSWORD','Password',\
+                'secret','SECRET','Secret',\
+                    'token','Token','TOKEN']
 
 # Extract nested values from a JSON tree.
 def json_extract(obj, key):
